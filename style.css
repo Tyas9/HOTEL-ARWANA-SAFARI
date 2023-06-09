@@ -32,7 +32,7 @@ a:hover {
 }
 h2 {
 	padding-bottom:4px;
-	background:url(images/h2.gif) left bottom repeat-x;
+	background:url(h2.gif) left bottom repeat-x;
 	margin-bottom:9px;
 	font-family:"Trebuchet MS", Arial, Sans-Serif;
 	font-size:27px;
@@ -70,7 +70,7 @@ h5 a:hover {
 	cursor:pointer;
 }
 #header {
-	background:url(images/header.jpg) left top repeat-x;
+	background:url(header.jpg) left top repeat-x;
 	height:75px;
 }
 #logo {
@@ -86,12 +86,12 @@ h5 a:hover {
 	font-size:0;
 	line-height:0;
 	text-indent:-4000px;
-	background:url(images/logo.gif);
+	background:url(logo.gif);
 }
 #navigation {
 	float:right;
 	padding-top:5px;
-	background:url(images/navigation-separator.jpg) right 1px no-repeat;
+	background:url(navigation-separator.jpg) right 1px no-repeat;
 }
 #navigation ul {
 	list-style:none;
@@ -100,7 +100,7 @@ h5 a:hover {
 #navigation ul li {
 	float:left;
 	padding-left:1px;
-	background:url(images/navigation-separator.jpg) left 1px no-repeat;
+	background:url(navigation-separator.jpg) left 1px no-repeat;
 }
 #navigation ul li a {
 	float:left;
@@ -113,14 +113,14 @@ h5 a:hover {
 	text-decoration:none;
 }
 #navigation ul li a.active {
-	background:url(images/navigation-active.gif);
+	background:url(navigation-active.gif);
 	color:#fff;
 }
 #navigation ul li a span {
 	float:left;
 }
 #intro {
-	background:url(images/intro.gif) left top repeat-x;
+	background:url(intro.gif) left top repeat-x;
 	height:418px;
 	padding-top:22px;
 }
@@ -158,7 +158,7 @@ h5 a:hover {
 	right:1px;
 	height:317px;
 	width:230px;
-	background:url(images/semi-transparent.png);
+	background:url(semi-transparent.png);
 	padding:34px 20px 0 25px;
 }
 #intro .slider-holder .offer-data .entry {
@@ -183,17 +183,17 @@ h5 a:hover {
 }
 #intro .slider-holder .offer-data .buttons .button {
 	float:right;
-	background:url(images/intro-button.jpg) left top repeat-x;
+	background:url(intro-button.jpg) left top repeat-x;
 	border:1px solid #434340;
 	padding:0 8px;
 }
 #intro .slider-holder .offer-data .buttons .button span {
-	background:url(images/intro-button-span.jpg) left top no-repeat;
+	background:url(intro-button-span.jpg) left top no-repeat;
 	padding-left:7px;
 }
 #intro .slider-navigation {
 	height:24px;
-	background:url(images/intro-shadow.jpg) left top no-repeat;
+	background:url(intro-shadow.jpg) left top no-repeat;
 	padding-top:36px;
 }
 #intro .slider-navigation ul {
@@ -204,7 +204,7 @@ h5 a:hover {
 	float:left;
 }
 #intro .slider-navigation ul li a {
-	background:url(images/slider-navigation-normal.jpg);
+	background:url(slider-navigation-normal.jpg);
 	width:19px;
 	height:20px;
 	display:block;
@@ -214,10 +214,10 @@ h5 a:hover {
 	text-decoration:none;
 }
 #intro .slider-navigation ul li a.active, #intro .slider-navigation ul li a:hover {
-	background:url(images/slider-navigation-active.jpg);
+	background:url(slider-navigation-active.jpg);
 }
 #main {
-	background:#f8f8f8 url(images/main.jpg) left top repeat-x;
+	background:#f8f8f8 url(main.jpg) left top repeat-x;
 }
 #main .shell {
 	padding:25px 0;
@@ -245,7 +245,7 @@ h5 a:hover {
 	border:2px solid #fff;
 }
 .box .buttons .button, .box .buttons .button span {
-	background:url(images/main-button.jpg) repeat-x;
+	background:url(main-button.jpg) repeat-x;
 	height:29px;
 	line-height:29px;
 	float:right;
@@ -256,7 +256,7 @@ h5 a:hover {
 .box .buttons .button span {
 	float:left;
 	border:0;
-	background:url(images/main-button-span.jpg) left top no-repeat;
+	background:url(main-button-span.jpg) left top no-repeat;
 	padding:0 0 0 7px;
 }
 #main .news {
@@ -300,14 +300,14 @@ h5 a:hover {
 }
 .bullet-list ul li {
 	line-height:12px;
-	background:url(images/ul-bullet.gif) left 5px no-repeat;
+	background:url(ul-bullet.gif) left 5px no-repeat;
 	padding:0 0 14px 10px;
 }
 .bullet-list ul li a {
 	color:#4062b7;
 }
 .footer {
-	background:url(images/footer.jpg) left top repeat-x;
+	background:url(footer.jpg) left top repeat-x;
 	color:#b3adad;
 	padding:24px 4px;
 	font-size:10px;
